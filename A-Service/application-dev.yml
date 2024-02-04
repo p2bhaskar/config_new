@@ -1,2 +1,2 @@
 test:
-  input:dev**
+  input: 500000dev**
