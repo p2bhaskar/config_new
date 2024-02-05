@@ -13,7 +13,7 @@ spring:
         - id: students
           uri: http://localhost:8081
           predicates:
-            - Path=/hello
+            - Path=/a/hello
     
 
 management:
